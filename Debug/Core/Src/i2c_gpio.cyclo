@@ -1,0 +1,17 @@
+../Core/Src/i2c_gpio.c:19:13:SDA_INPUT	1
+../Core/Src/i2c_gpio.c:28:13:SDA_OUTPUT	1
+../Core/Src/i2c_gpio.c:38:13:SCL_HIGH	1
+../Core/Src/i2c_gpio.c:39:13:SCL_LOW	1
+../Core/Src/i2c_gpio.c:41:13:SDA_HIGH	1
+../Core/Src/i2c_gpio.c:42:13:SDA_LOW	1
+../Core/Src/i2c_gpio.c:46:13:I2C_Start	1
+../Core/Src/i2c_gpio.c:58:13:I2C_Stop	1
+../Core/Src/i2c_gpio.c:71:13:I2C_WriteBit	2
+../Core/Src/i2c_gpio.c:83:16:I2C_ReadBit	1
+../Core/Src/i2c_gpio.c:98:16:I2C_WriteByte	2
+../Core/Src/i2c_gpio.c:119:16:I2C_ReadByte	2
+../Core/Src/i2c_gpio.c:135:16:I2C_SendByte_CheckAck	2
+../Core/Src/i2c_gpio.c:149:13:EEPROM_WriteByte	5
+../Core/Src/i2c_gpio.c:162:16:EEPROM_ReadByte	5
+../Core/Src/i2c_gpio.c:183:6:I2C_GPIO_InitBus	1
+../Core/Src/i2c_gpio.c:190:6:I2C_GPIO_RunTest	1

@@ -1,0 +1,7 @@
+../Core/Src/SPI.c:17:13:ADXL_WriteReg	24	static
+../Core/Src/SPI.c:30:13:ADXL_ReadMulti	48	static
+../Core/Src/SPI.c:51:9:SPI_ADXL_Init	24	static
+../Core/Src/SPI.c:84:6:SPI_ADXL_ReadXYZ	32	static
+../Core/Src/SPI.c:97:6:SPI_ADXL_Calibrate	32	static
+../Core/Src/SPI.c:136:6:SPI_ADXL_ReadXYZ_Calibrated	32	static
+../Core/Src/SPI.c:147:6:SPI_Run	16	static

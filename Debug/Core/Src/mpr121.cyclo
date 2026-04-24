@@ -1,0 +1,6 @@
+../Core/Src/mpr121.c:18:13:MPR121_Write	1
+../Core/Src/mpr121.c:26:17:MPR121_ReadTouch	1
+../Core/Src/mpr121.c:38:13:Send_Key_UART	1
+../Core/Src/mpr121.c:45:6:MPR121_Init	2
+../Core/Src/mpr121.c:69:6:Process_MPR121_Touch	9
+../Core/Src/mpr121.c:109:6:MPR121_InterruptHandler	3

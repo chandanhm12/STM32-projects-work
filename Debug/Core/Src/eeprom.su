@@ -1,0 +1,5 @@
+../Core/Src/eeprom.c:18:6:EEPROM_Init	16	static
+../Core/Src/eeprom.c:24:9:EEPROM_IsConnected	8	static
+../Core/Src/eeprom.c:36:6:EEPROM_WriteFullMemory	184	static
+../Core/Src/eeprom.c:86:6:EEPROM_ReadFullMemory	208	static
+../Core/Src/eeprom.c:125:6:EEPROM_VerifyFullMemory	232	static

@@ -1,0 +1,6 @@
+../Core/Src/mpr121.c:18:13:MPR121_Write	32	static
+../Core/Src/mpr121.c:26:17:MPR121_ReadTouch	32	static
+../Core/Src/mpr121.c:38:13:Send_Key_UART	16	static
+../Core/Src/mpr121.c:45:6:MPR121_Init	24	static
+../Core/Src/mpr121.c:69:6:Process_MPR121_Touch	32	static
+../Core/Src/mpr121.c:109:6:MPR121_InterruptHandler	16	static
